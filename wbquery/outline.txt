@@ -1,0 +1,5 @@
+Users want to
+    - query for something, browse
+    - find out what you can search for
+    - get data back as an array(?)
+
