@@ -1,4 +1,11 @@
-Requires
---------
+This is a work in progress to access the World Bank open data API using Python.
+It is currently not installable and should be used locally. Improvements and
+suggestions are welcome.
 
-iso3166 or django-iso3166, or just ship one.
+
+Depends
+-------
+
+python-iso3166 - Recommended to use the fork here:
+
+        https://github.com/jseabold/python-iso3166
